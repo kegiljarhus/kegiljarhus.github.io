@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Knut Erik Teigen Giljarhus' site"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Knut Erik Teigen Giljarhus"
+description              : &description "Welcome to the site"
+url                      : https://kegiljarhus.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "kegiljarhus/kegiljarhus.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -79,33 +79,33 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  name             : "Knut Erik Teigen Giljarhus"
+  avatar           : "kegportrett_1x1.jpg"
+  bio              : "I am an associate professor at the University of Stavanger. Passionate about fluid dynamics, mathematical modelling and scientific computing"
+  location         : "Stavanger, Norway"
+  employer         : "University of Stavanger
+  googlescholar    : "https://scholar.google.no/citations?user=UO7tyC4AAAAJ"
+  email            : "knut.e.giljarhus@uis.no"
   uri              :
-  bitbucket        :
+  bitbucket        : "kegiljarhus"
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "kegiljarhus"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
